@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aligolpa9877@gmail.com)
 [![Github](https://img.shields.io/github/followers/AliGolpayegani?label=Follow&style=social)](https://github.com/AliGolpayegani)
 
-- 🤔 I’m currently learning MySQL and Django.
+- 🤔 I’m currently learning DBs and NLP.
 - 📫 How to reach me: aligolpa9877@gmail.com
 
 
