@@ -13,6 +13,8 @@
 
 - Machine Learning
 - Deep Learning
+- Computer Vision
+- Python programming
 
 ### ⚙️ Tech Stack
 
