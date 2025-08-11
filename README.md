@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ali Golpayegani
+# Ali Golpayegani
 
 🚀 **Aspiring Machine Learning Engineer** | 🎓 Mechanical Engineering Student | 🤖 AI Enthusiast
 
