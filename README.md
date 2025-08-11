@@ -38,26 +38,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🔍 [Military Tracker with YOLOv11](https://github.com/AliGolpayegani/military-tracker)
-- Detects and tracks **humans, military vehicles, aircraft, helicopters, and drones** from video streams.
-- Merged multiple datasets into a **custom two-class YOLOv11 model**.
-- Implemented **real-time tracking** with optimized performance for limited hardware.
-
-### 🏠 [Tehran House Price Prediction](https://github.com/AliGolpayegani/tehran-house-price)
-- Built **regression models** (XGBoost, Random Forest, Linear Regression) to predict property prices.
-- Performed **feature selection, preprocessing**, and **model comparison** in Google Colab.
-
-### 📈 [Experimental DOE & Kriging Modeling](https://github.com/AliGolpayegani/pump-efficiency-doe)
-- Applied **Taguchi design of experiments** and **Kriging surrogate models** for pump efficiency prediction.
-- Achieved **R² > 0.97** on unseen test data using **LOOCV**.
-
-### 🖼 [MNIST Digit Classification (PyTorch)](https://github.com/AliGolpayegani/mnist-fcn)
-- Implemented a **Fully Connected Neural Network** in PyTorch from scratch.
-- Trained and tested on MNIST dataset with custom training loop.
-
----
 
 ## 📊 GitHub Stats
 
